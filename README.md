@@ -1,5 +1,7 @@
 # Sistema de Inscripciones y Matriculación - App Flutter
 
+**Repositorio del código fuente:** [https://github.com/1Said2/trabajo-bimestral-flutter-crud](https://github.com/1Said2/trabajo-bimestral-flutter-crud)
+
 Aplicación móvil desarrollada en **Flutter (Dart)** que permite gestionar estudiantes, cursos y sus respectivas inscripciones mediante operaciones CRUD completas, consumiendo una API externa en Azure.
 
 ## Arquitectura y Tecnologías
